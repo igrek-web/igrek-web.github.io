@@ -1,30 +1,31 @@
 /* CSS Document */
 
 a {text-decoration: none;}
-a:hover {color: #989898;}
+a:hover {color: #777777;}
 
 a.menu:link, a.menu:visited {font-family: "Monotype Corsiva", Garamond, "Courier New"; font-size: 22px; text-decoration: none; color: white; font-weight: bold;}
 a.menu:hover {color: blue;}
 
-a.smalltitlelink:link, a.smalltitlelink:visited{font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #989898; font-weight: bold; text-decoration:underline;}
+a.smalltitlelink:link, a.smalltitlelink:visited{font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #777777; font-weight: bold; text-decoration:underline;}
 a.smalltitlelink:hover{color: #333333; text-decoration:none;}
 
-.mnuactive {font-family: "Monotype Corsiva", Garamond, "Courier New"; font-size: 22px; color: #989898; font-weight: bold;}
+/*.mnuactive {font-family: "Monotype Corsiva", Garamond, "Courier New"; font-size: 22px; color: #777777; font-weight: bold;}*/
 /*.title {font-family: "Bookman Old Style"; font-size: 24px; color: blue; font-weight: bold;}*/
 .title {font-family: "Monotype Corsiva", Garamond, "Courier New"; font-size: 24px; color: black; font-weight: bold; text-decoration: underline;}
-.smalltitle {font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #989898; font-weight: bold;}
+.smalltitle {font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #777777; font-weight: bold;}
 .text {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black;}
 
-.para {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin-bottom: 5px; border: 1px solid #989898; background-color: #eeeeee;}
-.para2 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin: 5px 0px; border: 1px solid #989898;}
-.para3 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin-right: 5px; margin-bottom: 5 px; border: 1px solid #989898;}
+.para {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin-bottom: 5px; border: 1px solid #777777; background-color: #eeeeee; padding: 5px;}
+.para2 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin: 5px 0px; border: 1px solid #777777;}
+/*.para3 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; margin-right: 5px; margin-bottom: 5 px; border: 1px solid #777777;}*/
+.spacebefore {margin-top: 20px;}
 
 .undertext {font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: white;}
 a.underlink:link, a.underlink:visited{font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: white; text-decoration:underline;}
-a.underlink:hover{color: #989898;}
+a.underlink:hover{color: #777777;}
 
-.btn-secondary, .btn-secondary:focus {color:#fff!important;background-color:#666666!important;border-color:#666666!important;box-shadow:none!important;}
+/*.btn-secondary, .btn-secondary:focus {color:#fff!important;background-color:#666666!important;border-color:#666666!important;box-shadow:none!important;}
 .btn-secondary:hover, .btn-secondary:active, .btn-secondary.active, .btn-secondary:visited {color:blue!important;background-color:#666666!important;border-color:#666666!important;box-shadow:none!important;}
 
-a.dropdown-item:link, a.dropdown-item:visited{font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #989898; font-weight: bold; text-decoration:none;}
-a.dropdown-item:hover{color: #333333;}
+a.dropdown-item:link, a.dropdown-item:visited{font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #777777; font-weight: bold; text-decoration:none;}
+a.dropdown-item:hover{color: #333333;}*/
