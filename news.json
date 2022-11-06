@@ -1,5 +1,9 @@
 [
   {
+    "newsDate": "2022-11-06",
+    "newsContent": "Веб-сайт перебудовано протягом двох місяців з використанням JavaScript та JSON. Тепер це лише одна HTML сторінка. Додано нову модель Porsche 911 GT2 RS (тип 991)."
+  },  
+  {
     "newsDate": "2021-08-16",
     "newsContent": "Додано подаровані Porsche 911 (901) та Mercedes CLA Schooting Brake (X117)."
   },
