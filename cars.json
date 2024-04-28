@@ -1188,6 +1188,24 @@
   "currentLocationDE": 0
   },
   {
+    "carID": 195,
+    "collectionGerman": 1,
+    "collectionKombis": 1,
+    "carBrand": "Mercedes",
+    "carModel": "W111 Universal (Fintail)",
+    "carProdBy": "DeAgostini (Mercedes Collection)",
+    "carAppeared": "2024-04-27",
+    "carPurchasedAt": "Weiden, Flohmarkt",
+    "carPrice": "8 Euro",
+    "carPriceCurrentEur": 15,
+    "carPhoto1": "./images/cars/195s_mercedes_w111universal.jpg",
+    "carPhoto2": "./images/cars/195s_mercedes_w111universal_back.jpg",
+    "carPhoto1b": "https://photos.google.com/share/AF1QipNujLUeHJsMGCFzKOrE6PsVMeKn7Iw7P-XoY-Bo19gHpe8MLs_jcQk6kq0_cSy1rQ/photo/AF1QipP1kWXzItTY-qhmmBHTJ13eDshTgkAy9TzDqHIk?key=cUoyeUxkTkN2VTE0ejlHdVVDUllmTXZsby1VRFNR",
+    "carPhoto2b": "https://photos.google.com/share/AF1QipNujLUeHJsMGCFzKOrE6PsVMeKn7Iw7P-XoY-Bo19gHpe8MLs_jcQk6kq0_cSy1rQ/photo/AF1QipPzqynGracCupa5-iAN3-1MOMYfezMsh6d3150U?key=cUoyeUxkTkN2VTE0ejlHdVVDUllmTXZsby1VRFNR",
+    "carText": "&nbsp;&nbsp;&nbsp;Більший автомобіль з двох моделей Fintail мав код W111 і випускався з 1959 року. Він замінив у модельному ряду більшу з моделей Ponton (W180).<br>&nbsp;&nbsp;&nbsp;У 1965 році з'явився наступник W108, хоча модифікація 230S вироблялась ще до 1968 року.<br>&nbsp;&nbsp;&nbsp;Крім седанів, купе та кабріолетів в модельному ряду W111 був також універсал, який виготовлявся в невеликих кількостях в Бельгії у 1966 та 1967 роках в єдиній модифікації 230S Universal. На його основі були також спеціальні версії: медичне авто, катафалк тощо.",
+    "currentLocationDE": 1
+  },
+  {
   "carID": 130,
   "collectionGerman": 1,
   "collectionKombis": 0,
