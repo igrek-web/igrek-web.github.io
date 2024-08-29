@@ -2214,6 +2214,24 @@
   "currentLocationDE": 0
   },
   {
+    "carID": 201,
+    "collectionGerman": 1,
+    "collectionKombis": 0,
+    "carBrand": "Opel",
+    "carModel": "Omega B",
+    "carProdBy": "Opel Collection",
+    "carAppeared": "2024-08-17",
+    "carPurchasedAt": "Weiden, Flohmarkt",
+    "carPrice": "10 Euro",
+    "carPriceCurrentEur": 12,
+    "carPhoto1": "./images/cars/201s_opel_omegab.jpg",
+    "carPhoto2": "./images/cars/201s_opel_omegab_back.jpg",
+    "carPhoto1b": "https://lh3.googleusercontent.com/pw/AP1GczMP2RZSz_2nBWV4G22PovlINNdv9_9umLIAxbDWCAz6R_xSmZUjk6F6WQXUiujA1QDpSGRPUCXV8ICAf1AfnUn4tfaqzMnd_kUO1EcRiUn_ypowjyIj=w800-h600-no",
+    "carPhoto2b": "https://lh3.googleusercontent.com/pw/AP1GczP0cmU0mrLAXThLQkqtMEc810qMBljpd0oGaBOKsEhlVn_DzWY1C-gfTsC0Wl-mHaQY6iQ2CFSjW8fDu0PWNLi0ZjVjVh6QttLtg2EJ9oghBafBI_JZ=w800-h600-no",
+    "carText": "&nbsp;&nbsp;&nbsp;Друге покоління Opel Omega випускалось з 1994 році із модернізацією у 1999 році. Автомобіль відомий також під іншими іменами: Vauxhall Omega, Cadillac Catera, Holden Commodore.<br>&nbsp;&nbsp;&nbsp;Модель від Opel Collection є раннім варіантом у топ-модифікації MV6 з 3-літровим двигуном V6 потужністю 211 к.с.<br>&nbsp;&nbsp;&nbsp;Епоха великих задньопривідних седанів Omega закінчилась у 2003 році. Концепт 2003 року Insignia не отримав подальшого розвитку як заміна для Omega. Наступником вважається Signum, але цей автомобіль вже не був седаном. Невдовзі після того, у 2008 році, таки з'явилось авто Insignia - але вже як заміна для моделі Vectra.",
+    "currentLocationDE": 1
+  },  
+  {
   "carID": 187,
   "collectionGerman": 1,
   "collectionKombis": 0,
