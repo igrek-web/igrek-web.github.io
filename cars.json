@@ -3384,6 +3384,24 @@
   "currentLocationDE": 0
   },
   {
+    "carID": 202,
+    "collectionGerman": 1,
+    "collectionKombis": 0,
+    "carBrand": "Volkswagen",
+    "carModel": "T-Roc",
+    "carProdBy": "Bburago",
+    "carAppeared": "2024-12-24",
+    "carPurchasedAt": "Ukraine, Lutsk",
+    "carPrice": "3,99 EUR",
+    "carPriceCurrentEur": 4,
+    "carPhoto1": "./images/cars/202s_vw_troc.jpg",
+    "carPhoto2": "./images/cars/202s_vw_troc_back.jpg",
+    "carPhoto1b": "https://lh3.googleusercontent.com/pw/AP1GczOy7aHAkDL4uYq1A8cswIzFkykkC7I9J1m_s4UsCxUJGvML7ev5Ao_AL1x8BFuLPzN3I6P3vcIhZjImavTfjSfjhTGiqy7l6Crkdd-75Z-cdF8UFTV52UKYZ7lTFy6PbKsMFVLMISvcWP_R3WEDmDUGOA=w800-h600-s-no",
+    "carPhoto2b": "",
+    "carText": "&nbsp;&nbsp;&nbsp;Тридверний компактний SUV T-Roc було показано як концепт у 2014 році. В серію автомобіль пішов вже п'ятидверним у 2017 році. Європейська модель виробляється в Португалії і ділить свою платформу з Audi Q2.<br>&nbsp;&nbsp;&nbsp;До фейсліфту у 2021 році було продано вже більше мільйона одиниць. З 2019 року можна також придбати кабріолет T-Roc.",
+    "currentLocationDE": 1
+  },
+  {
   "carID": 178,
   "collectionGerman": 1,
   "collectionKombis": 0,
