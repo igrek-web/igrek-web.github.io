@@ -198,6 +198,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 203,
+  "collectionGerman": 1,
+  "collectionKombis": 0,
+  "carBrand":  "Audi",
+  "carModel":  "e-tron GT",
+  "carProdBy":  "Bburago",
+  "carAppeared":  "2025-09-20",
+  "carPurchasedAt":  "Germany, Weiden",
+  "carPrice":  "4 Euro",
+  "carPriceCurrentEur": 4,
+  "carPhoto1":  "./images/cars/203s_audi_etrongt.jpg",
+  "carPhoto2":  "./images/cars/203s_audi_etrongt_back.jpg",
+  "carPhoto1b":  "https://lh3.googleusercontent.com/pw/AP1GczP14ig26q2ePkdMTBoCeTnxs7xI5BMe7Db2WR5Cj290AVRwTn3Tclf9pyfIxpaEaY_3GK094g3i5p2OJJ7Znnyc4HhMxYCo2HigL19EBZUN8JIHyv3-RgkkNShhJVYv-0TOnHS7wYdYn0i3YsETjGp66g=w800-h600-s-no",
+  "carPhoto2b":  "https://lh3.googleusercontent.com/pw/AP1GczMky_ny8tRjFjr5KAYLADo1K9zzUvf0ZdKRSoZPV4_WemOQSyrYOx6eBYYZJY3r5H5_c1XIuIptEublAQ9AtReW1Wl7v_1A3S-vYrcaHR2yJI8nx3KB6nDT3KkfAxTWTXwGY3zmJxWTazF7SOxeaKEUsA=w800-h600-s-no",
+  "carText":  "&nbsp;&nbsp;&nbsp;Електромобіль e-tron GT виробляється з 2021 року. Внутрішня назва моделі - FW. 40% частин є спільними з Porsche Taycan, який збирається на тому ж заводі. В 2024 році відбулась модернізація.<br>&nbsp;&nbsp;&nbsp;Автомобіль має повний привід від двох синхронізованих двигунів спереду та ззаду.<br>&nbsp;&nbsp;&nbsp;Топ-модифікація RS e-tron GT (модель від Bburago) має прозорий дах з полімерного матеріалу, підсиленого карбоновими волокнами, покращені підвіску та гальма. Пікова потужність - 925 к.с. (у версії RS e-tron GT performance).",
+  "currentLocationDE": 1
+},
+{
   "carID": 159,
   "collectionGerman": 1,
   "collectionKombis": 0,
