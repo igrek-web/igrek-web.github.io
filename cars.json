@@ -432,6 +432,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 175,
+  "collectionGerman": 1,
+  "collectionKombis": 1,
+  "carBrand": "BMW",
+  "carModel": "(EMW) 340",
+  "carProdBy": "Ist Models",
+  "carAppeared": "2018-03-31",
+  "carPurchasedAt": "ukrmodels/Modelissimo",
+  "carPrice": "10 Euro",
+  "carPriceCurrentEur": 25,
+  "carPhoto1": "./images/cars/175s_emw_340.jpg",
+  "carPhoto2": "./images/cars/175s_emw_340_back.jpg",
+  "carPhoto1b": "https://lh3.googleusercontent.com/Tb_vpK_6HJJ65kVossQw831ohQ6a6LTfHHE0-v1VSWNCzjbQ7KzeRX_NfgsUo4X9nAkdTkHyGp9qg21fA8ngmTD_EXQO6_y-kUkS8hGEKcH0XWErulTeKt8qBKPzX4RRSLEex-X23QSfggLatZbx5bYOWke3chS_Rp5SRoxhSWQJ_fcUJoEt7COJLIUmo1o27Hbu7yaDvTLg8hNnJRVpabr3YxuZ8Q_WHJ-Ca5uU78-vsZxe5YsWx6QRLBNJmM23dkzkE8jhya60MuWt0Pz8AmM0HlZR0iXjlcz25W9e_hBHD6_0JGeuZpsaqzXUzODJlyTGZft7z8Nptfrez08kc2j5D_RDFxdj8PuzeladsIBkY-VRAHzoaRuyCuovNsHOAhQc45s_ot4ij86ortA3UParScxkO1Rf8ZpqaeoUPcWy4-nF-mbJrYcGc2gaGuZrJWHw3T40u6HIOzvQbjV8QRbi5JpK9IFKMgtx_cHFSqNMqrmpsk4-i2IKkVehWDZX3wDTO7M4Snto1_BChFoBsTiJ1e2ugQQFGuMNUYCSMHPvpfkxuPVTCwYXp8UwlIgVTZ4r2JWkxSzTajcShuT-Nep56NYBSzwQjoK-fevZe2ZdFBIZycleo_3vsILKlVQaJxh21qRijbAXT43MU-qh38hT0qjw5SpF=w800-h600-no",
+  "carPhoto2b": "https://lh3.googleusercontent.com/bbADpzyNyAEabrlm5WxacSopx3j8DBOKHP4N1GdCZ29Ciz84sY8MkpqHW8erubwu7R-GSWrQGYStf7nDk-lktRV1uK2KxsqpFHAGBSdKrRdxltsjJQlTt_YK_37zxgzEYXzqailA6BmPjF9ADxXer4KUeUmkRFJZCDcEhwqw1A3QMNONX2-tI2o38IQL0Ose7nEg2iXle3Ud5PXSPiv-o0obpwYqgma2M_gIgsRrtMwsGE8R_svyirmsvQZAXfEG2uYZf-oMMFtoMif-Oyhu5oFujUAOKb21Pia3yUhTxOXczpDLr0YNmfNApsEDkzJ4Y0xkvDIO0CmMX4ujL1oY-87GdnBLPZrh2sJFT-_K6uqJynaBvfToQn7ytQGhXnxKfK5k0OWv19y-ZUXS5h4Yp5mhvfsurBatqHibjhVGlWwZ6qKYtl5uZpgu__DMy8hDXNUR6vPIP-s6_xKwyY63gRFVvH98yLuegbazBeL6RLhC5pI9w-eV--SYrLNcZ8MKjfOTo_DKt1-G6BY_sq-skB4dtEXNHHg3YEV75VTAkvswkXPMxZFUAAnBSygJUu9dMkMgO2BjhZxatVflp_xnSXv3CzgnBo1ITHKiokttKL8cycZTEE2dvWYhp2J0UCOl0VZpOLe8rWxsj4YAsZy4poT9oQ2RHDC5=w800-h600-no",
+  "carText": "&nbsp;&nbsp;&nbsp;BMW 340 випускались з 1948 року на заводі в місті Eisenach. Це був перший післявоєнний автомобіль BMW - вдосконалена модель 326.<br>&nbsp;&nbsp;&nbsp;Завод знаходився на окупованій Радянським Союзом території і завод перейшов від BMW до радянської влади і планової економіки. Контакти з постачальниками з західної Німеччини були розірвані. Наслідком цього були проблеми з постачанням та якістю, на які власне компанія BMW ніяк не могла вплинути, а також не могла забезпечити сервіс цим автомобілям. В 1952 році рішенням суду марку перейменували з BMW в EMW (перша літера пішла від назви міста).<br>&nbsp;&nbsp;&nbsp;Автомобіль EMW 340 випускався до 1955 року. Далі для східної Німеччини важливими стали дешеві авто, і завод в місті Айзенах почав виробляти автомобілі Wartburg.",
+  "currentLocationDE": 1
+},
+{
   "carID": 191,
   "collectionGerman": 1,
   "collectionKombis": 0,
@@ -2682,6 +2700,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 184,
+  "collectionGerman": 1,
+  "collectionKombis": 1,
+  "carBrand": "Porsche",
+  "carModel": "928 Break",
+  "carProdBy": "PremiumX",
+  "carAppeared": "2019-06-30",
+  "carPurchasedAt": "China, Pinghu, online",
+  "carPrice": "unknown",
+  "carPriceCurrentEur": 50,
+  "carPhoto1": "./images/cars/184s_porsche_928kombi.jpg",
+  "carPhoto2": "./images/cars/184s_porsche_928kombi_back.jpg",
+  "carPhoto1b": "https://lh3.googleusercontent.com/zBT4PKGmgLosxP2ncNQC3kvASioF5M2fisxy-IIP2dRnmc8sCwgAuSytml9hY4LBMMIcTmlhmlVSVh-06b8rw6ut2f7Fen7gDz_Qm_qxAO6AVZRZ9llAKW9OvUVSvc1uQ2HIfuvyy1FPwhQOyrFQBbf_zBiA6OFBF7RXOunWUOpRgYJUpTyzhmXm--tiuxJzbPLf4gEAoMa8OcLQ9kiWnBxrDvCnjRjd3MhXuTZ3WHbcvaVu9l_17zwGV19Pq0ZQANiNuOnnfDScR0w-MXxXhsP6wbRl9iQAw9Uy2OGamGiFXXQeM9yg82-bbXGV3QQ4ZVIXEFkgJAY5btnB-j1QMfazdJFcLgGFPW3pyaYtyZqRPsuMO8mRYCiTTCkZddtJTjqRAT6A5HFNihRPhbFh24XYkFP-r8_KfZ4IVLEsxZWWT2fyBDWNy4Wmd9esu4o9ihxVqVW2PLnL_yeIstv5FOCbA1rc0l1-LCsmxNUWCQgtF_Um0v7rk55nt0VtGTDBnn5ILVOWI1bB8TNoVB0DjHPilvO1gCFvnaiQVoA4b2m08e30cSJiMRoaW9KawrMSfyqL6ZURKBDetSnwrCqQ_oe6I0gRQ3BXewMy5I2OI8BTQ9vSPg26cHzCf_EUhwu5yRIADmD_hYmpsM5ygX2JTLbcFcCl6v4Wqbb506DCXBF2C0NkA50mihCwe5UwntRMeXH6rQO6D6SkMlzBXcmYBWWMvDgaNNVh9QaJ8NACWUrQPwkb=w800-h600-no",
+  "carPhoto2b": "https://lh3.googleusercontent.com/H8EtB-oY5QQJq3R8VU4VJSzEhJ9QnPPqdC7oZGjTcduM_8Tycb8KAKtqYHNAzPXHmUAzzsnFU5WtWpEuRyGnic3q0ufF5awPu6e8YyUc6UMU-qgLCZ0RFJgvfM1msCR1KcfE2FKpo8zBGkRgodf3Y4zkbXWQlNArRcglUSEsPYdc3OQSeb5i41T58J9eqxCJNc4aSoSSQ4Lb9cLbhBx_bmOuqVCvyW2ceZ7KnjxbzhyiuPQDYZivAsMJUfgx3NeksI4cdbYdEwkmH_wYS3Xolk7HzBaUnFqOQ4qkRG8q59FRCAS6tbBhMhMFRhg_pGys4tXAE7vtBSMYWAUrc18CR14Sg87ztENHwktYM6LCFTlboVwUErf4dt2_2nYx5tS_g80uNZniwYb67K_XwZhrfKT4F_KcHoltBmpYTxUME3kOb4c0KtjY61DhGNR7KDol-h6YhSyhMx4jwHHTbY0OoP_4irQZlyiQApBatpv1DzlPicxmcQDVqRP6KEBayIMSCdZzV8AKF1zNk4zN2wqrTIfSJaXaqoxlSrIp1NWlMiS_GEfP8PNkqdwT520wm_yayRujTn2H10VWvoXLKHH5l26Yt-3adMyp1xWjz7v8m9kJk3pWJJCtWI0t14RP1HqG8ai0t9FYmyMyTZS5xcA9RULLMFrcxn07peiyWNVL04Vsawo3qCEU3g1fRIpdg2P7i2Gzfm3Ndmgz6Dn9VB2dVYk06PCGgx-JHNLQHocZWLCIY41O=w800-h600-no",
+  "carText": "&nbsp;&nbsp;&nbsp;Фірма Artz з Ганновера у 1983 році розробила дводверний універсал на базі Porsche 928. Технічно машина залишилась такою ж, як і оригінал. Але аеродинаміка покращилась і максимальна швидкість стала вищою (261 км/год).",
+  "currentLocationDE": 0
+},
+{
   "carID": 44,
   "collectionGerman": 1,
   "collectionKombis": 0,
@@ -3726,6 +3762,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 10054,
+  "collectionGerman": 0,
+  "collectionKombis": 1,
+  "carBrand": "Chevrolet",
+  "carModel": "Opala Caravan",
+  "carProdBy": "Ixo (Chevrolet Collection)",
+  "carAppeared": "2017-02-28",
+  "carPurchasedAt": "China, Pinghu, online",
+  "carPrice": "100 RMB",
+  "carPriceCurrentEur": 15,
+  "carPhoto1": "./images/kombis/k054s_chevrolet_opala.jpg",
+  "carPhoto2": "./images/kombis/k054s_chevrolet_opala_back.jpg",
+  "carPhoto1b": "https://lh3.googleusercontent.com/d2q1p1MPsj34TGiBaggfngbmInRigfmEvPVy-OCYlE5XZKPmbmAjZyZUn9oD_euX5wFZyxuZUCl3eXo8_VKk0z125r1dJ6X9R7Al1xdgBHDvM5nEsOWCd45VAcRbCyN_PgxxJ7r8zJ6z2C6LeRAhAbVp7WsvqQF8jrpjek_mHozB2OMpXKXBdpTzQzxPKvYZgDO_R_XEc_DaYEyvfg9czV-doixOYf7LfjrgJOyfyxYenAYnMakcct8VMKfg_U3vwFt1WFdlR-U9dDVR9WkWY2oBkJlI-zlmzbFmFcNnz77xavfFBVvu7rh80xhTkkdSeizlj4ILQQabQnM9rgS16He0ICrQWnzVG9-WtwPaRS_FijjLvMUh3OBUNqqBOFZKEHvmy3aMtGWoVrKvD7LIlh4ILBtaLKA-Zl6YpgsErknVaOVkmLpQB-cFtfVuo7p_SieH0QpFUqWPCkuFJSiME1EJzCO7Txc5kYwWdeKQUj6iMU8drEmyn_2K16s3uNLJNkFPmql5nAW6JYhpyS58qqAhiG_w3dbJLNDCUtRYAXRPK3oxRJo3rk__YPv2bedWKT2YY1m7ZlLUK4ugnuqMXB_EwvSNtWCxaVRBekUDtD9K6JjMFTNE=w800-h600-no",
+  "carPhoto2b": "https://lh3.googleusercontent.com/USI1uza74EOdZ2Zm5vBO-DpKuO-2hxlU-q18vDENude2mYTPIfG7zyCMfv72mo1y5QJB5pvKf7R7PvrAv1vfiF8vgl1uk_qmvEJWBzanvhiEk0fk3HzPHKkg35EpJGqs2zftV_m8gLjjMZHiV6dVoEpuYZl-XcEywxkbflftgRAFxFWsywJUf6tnQUVrNQbJBbnSf7k2c28JyKZa6lW3p4WDXoKC7nYxcuLTCjTSWDFPMMNxP2emcPLt9wCYKk9JP-9Qo-J-Okb6MI6oXYOGvVUcs8qfDqdUjqQh8cAhs2Gh5gjI-Sb-Nzj5V3ILHJAjf27Tpa72BWl8GW_3X-FYMxOd9zCDmxe09b361Ic13ex5az4u1oeecRtfRlGqE_rFfRUlyUfcPqjbBFDM6pXqRvQzBVCtSCJK7tZmLhMyI8Zgo5nKvOogpUTB2Vg__A7v3nwjYVY3aeQCgr8T75G6MtB6P9xiS2EiNyX_PLrW6FmB3yn7ZSLgMMdxI8cXkv1kQzV3m9MNW_dIE08bZEGqMu4OkqtfbqMdgIyS0kdc21iIGzP7xjSwy8z0ZFMIy_MWOT5wGzr2dCku4boNxngydSlqfy54mqaaljJydyAPZLG4rdUhcUzq=w800-h600-no",
+  "carText": "",
+  "currentLocationDE": 1
+},
+{
   "carID": 10031,
   "collectionGerman": 0,
   "collectionKombis": 1,
@@ -4029,6 +4083,24 @@
   "carPhoto1b":  "https://lh3.googleusercontent.com/ioKflyZLHPg_ESjHVzBwJlKpP1lByFoXv2F5K-oeAQEURX4LIcwvFmGKZ6ZYFs3jVPYzj4DpopF5z4-y92mbwVSPHwoqVuGX_JaRsJmjvHw7qZukX1Kc4itIND9Jtq1fd4KxPm1S3mZOoVsN3-15FwfOwot_BC8P3Nn1nEEq1fU4gH0v4oJXKuxFnCLe4aedo5tKQdxQCH7zbSdTl_N_lb4QygaP_sPPSSL2kVzKtAm7Ww5dPEpcW4GB7gw57b9N2Myc8r5JzFo2lddeoyeoGCpGaaQnS00ELOroOKhh04CLpfwKHTht1Mqn3nMaMkdWmIRAF7e645HKJPOyQDqo73i5QBu-buxsK26lVcqxxaw9nt_LAY5pu2O-u-Q5bRVo9hb3k86cKE3A7NAKO7RaGS0Fny6iuypESU0vFCHo9gNep7v0di2hKZWoMuIZcvu3GXMkxvkTE4xRYISZ7ZXy74-7W3VVGsmLZEHM_A-s5nGVw2Epv6rHxGwK-xegoaJDuIZ8CwZVBRMru8NSJYy_lo3e5s7D_518U7fYu9z2nH5yTqI9EQ4_Ym3H3PFfI5eEfowj4JPqQiIHAP6qEtGbLe9iFZ-yeg1yqV6Tng_OIUR9-JKf1Zp_MFhi=w800-h600-no",
   "carPhoto2b":  "https://lh3.googleusercontent.com/AlS4G9sogfIaxzWpnDr5-RI9A-wszGv0s7Sx0HsDiiAF2ez_lu5gQStTFnGr3d1djHK98jRtnlCYQoeAA2QUD8IQagq2OYaUH2XOIfAI2iz0mLdYuI4SACDe8G7zVUf4zJoZzi7qWzrPtEZaQXnVn61u7SkFpt9Dy_pMPgZrBzIlnX6LfmK36JXmfKGbH23FWwQlVkk7RwqcQRo9k9frgoSe3Omjo1SxxsJ-mEn_tx6Tw3IHIY91-YMR6k69dSPIjnWA87W21zInoc5J3qcnaAMV_alBMZPGCjvAANzRAlMxQ_HRGPXaqxk9D-_2LW58LeO0r34rNu1xywXXVlx8xO2cuohM6KKxwpTs2D7CZXNNIdVUi52ZnnV1CluVQ0XU6iQ9vtPF3pVuAii3roxHL8sKnbeKNbuKJIfOORHMgbRmmFLOoF0TongEVp0C5OU5BH31GyfWB6dk5cg3QEdcNDRjRZB4WN2gUPrdjMDLbFmPDDhUP4HM8qT6MUaF-GkGkNAoEMFXlgUV6DeMCSooxnqCtefH_PgmcrBPVvpqKT7uHmMw02Q-ZoHNvXWZCe9tzgizEl6P0dbGRlTtQGksXlMBdW_-mq3jhcItqaz0q4euLXsDdf-SKUhE=w800-h600-no",
   "carText":  "",
+  "currentLocationDE": 1
+},
+{
+  "carID": 10061,
+  "collectionGerman": 0,
+  "collectionKombis": 1,
+  "carBrand": "Volvo",
+  "carModel": "P1800ES",
+  "carProdBy": "PremiumX",
+  "carAppeared": "2019-06-30",
+  "carPurchasedAt": "China, Pinghu, online",
+  "carPrice": "unknown",
+  "carPriceCurrentEur": 45,
+  "carPhoto1": "./images/kombis/k061s_volvo_p1800es.jpg",
+  "carPhoto2": "./images/kombis/k061s_volvo_p1800es_back.jpg",
+  "carPhoto1b": "https://lh3.googleusercontent.com/RwHfcbQVvAy4ZLqIVFV6OzcQcixNPC58u3l5m1EcvtxNQMUL2qTmP09tSgCY8ue5IA30IyH_eLxtHchGNGf0saT4bkvdpUxrGWfMjgbL2Bg1HHfFADt7tUqKyfY3Op5hNbT_Sor3JqD43P7DtjDGhgL8_UjfNNHZMoGmN5Mt47AyMKaLOpdkp_c4c5BqNqJv5ekAC2cjX7OI8Lt29_IyYAv1yIYrhOq_hN_hNk38tNF92hV-OWb8y6NjqH8e47bXKHZQJuQ_ktDlQ974LYWelvzjFyjX9PnjVdQ1WHe75512aWckL7axPXxmDaSYf1Az--zwPjooqkZg82TD-LDx533VPy4uINIMiz6TgxQEx2zXY4bYRS0vbdvh2QPDisOdPRZLv4sq_I1lFCfHRZBkMV-C_miwyAtYgoHK1NNJXytMKZhGh8yRmyxoHSdqiTjteQa3riqDV7ljkxc7uXzDgBq8UsEqi6hpImSGFbodbo7R5QPFujW9sG_BMjVr1WZpOEkKqRSwch988r19KVtkxYcCNig4yUeG-YbPV0l_Z8gtc2Bj7rJoZhA6WJo-xJm8gqN6frhZVJgmJ9U8bLMmAj-8ttXlO0z1YuXKYD1fnKXnbEALEsu6YnaGByg5RZ1KfLK8xI0Zu_1VqQppFejEgYHk-L2CNEoAcZi2BZbQdkPiRupkM2o__UY=w800-h600-no",
+  "carPhoto2b": "https://lh3.googleusercontent.com/QU5W4lRyROGwlYovKQTlJo6GYMuF2ni8CNMASFbXeJOzqKx0519zq9coZ2KL53wL7ZyPDRYjTshMG1SixFhbYB0Kj2YTLQjvypHwU7ZdkAr1V2IBaMRYO2CRVJW6xzus8qBXcYYX_o3ASQjsfer9yQAEMhM3JAY9jYIzQCDwSB7uL3LHiSWHLGHa6Xvzc_SWuDTrJzgoo87n1mYYSvMcyhPkMUTEAWo0w16HRgo8Hc-q80Qi2RLX7YF1t6lG1pQGKrxPwBHeW-S04dSL2V3OHLNkkreg7et0kOpVIBPM8VbVtQqJrjukl8EA6Zwv0kSNx_hyiEEyDwLIygQsAmSvaQuBJRdI5RnFN0W_579-0M6ycSCLk2n2iMhLgHm66JLVafg_Woe9ss_qwgp2Cy36KeB9NJlKyGK3V7x3TcdThhghgIiZjget7T6GQ7uzmI3gv4e-6bwN_ZBrpijMJg1gW_013OvaoCLZGX85V6pxMcGM5GOIAPoNj1ecIh1mp3bQEzD6jbJuxm8xdArxDEeXK0tnz8s64t5M-CSf03P34Xz5yIzRTb3dvaHBMcokMgHoPPZFFxixQ4Z2NElXg7Pllvn_TXGBAORKjqxHUdvmxFtAFCr5SHpQV3N2630dh_U6aZA7lig6Lh-9O5Ay6IRs74m-vFc9KmE0ZjGiwxne0lgE7Ug8tpkwiiM=w800-h600-no",
+  "carText": "",
   "currentLocationDE": 1
 },
 {
