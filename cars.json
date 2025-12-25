@@ -54,6 +54,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 204,
+  "collectionGerman": 1,
+  "collectionKombis": 1,
+  "carBrand":  "Audi",
+  "carModel":  "Avant RS2",
+  "carProdBy":  "Solido",
+  "carAppeared":  "2025-12-24",
+  "carPurchasedAt":  "Germany, Weiden",
+  "carPrice":  "20",
+  "carPriceCurrentEur": 20,
+  "carPhoto1":  "./images/cars/204s_audi_rs2avant.jpg",
+  "carPhoto2":  "./images/cars/204s_audi_rs2avant_back.jpg",
+  "carPhoto1b":  "https://lh3.googleusercontent.com/pw/AP1GczMShhTS8HMn9yM-A4sYdfNEskXC-6YliVSz5pgCEk6Hfx6S3BFfhiHrwhL-nvC_xJyqJ-jj4APlVRzKp8DCpvA6xTA2oFHz94lWEMXQBSj1WHis6u-apYBZAzQe96X1uhlZS4Dplel8DGEKy4hjhI9YrA=w800-h600-s-no-gm",
+  "carPhoto2b":  "https://lh3.googleusercontent.com/pw/AP1GczOFPQVFkfZogSysVUFIsl3IBCvGSFLuW6AekP_kD0jthr6EvAJ5Pc0pvqSjCnAm0uOdR6uPImyPpT9j0uE5DmKEKZUxwjnwTumlJMG3LbiwgSzpzkan-RY_WMVRwGjRBPI0uhnwMSvjzQJxH23RHz3LsA=w800-h600-s-no-gm",
+  "carText":  "&nbsp;&nbsp;&nbsp;Автомобіль Avant RS2 був спільною розробкою Audi та Porsche на базі Audi S2 (який в свою чергу має за основу Audi 80 B4). Він з'явився у 1994 році і був найпотужнішим і найшвидшим Audi того часу. Мотор 2,2 літра мав потужність 315 к.с., максимальна швидкість автомобіля - 262 км/год.<br>&nbsp;&nbsp;&nbsp;Avant RS2, як зрозуміло з назви, був у наявності лише в кузові універсал (між 1994 та 1996 було вироблено 2891 одиниць), що відповідало репутації Audi як відомого виробника потужних універсалів. Алe згідно з інформацією від Audi існувало й 4 седани RS2: один з них знаходиться в музеї Audi, два їздять в ОАЕ, доля останнього невідома.",
+  "currentLocationDE": 1
+},
+{
   "carID": 13,
   "collectionGerman": 1,
   "collectionKombis": 0,
@@ -2715,7 +2733,7 @@
   "carPhoto1b": "https://lh3.googleusercontent.com/zBT4PKGmgLosxP2ncNQC3kvASioF5M2fisxy-IIP2dRnmc8sCwgAuSytml9hY4LBMMIcTmlhmlVSVh-06b8rw6ut2f7Fen7gDz_Qm_qxAO6AVZRZ9llAKW9OvUVSvc1uQ2HIfuvyy1FPwhQOyrFQBbf_zBiA6OFBF7RXOunWUOpRgYJUpTyzhmXm--tiuxJzbPLf4gEAoMa8OcLQ9kiWnBxrDvCnjRjd3MhXuTZ3WHbcvaVu9l_17zwGV19Pq0ZQANiNuOnnfDScR0w-MXxXhsP6wbRl9iQAw9Uy2OGamGiFXXQeM9yg82-bbXGV3QQ4ZVIXEFkgJAY5btnB-j1QMfazdJFcLgGFPW3pyaYtyZqRPsuMO8mRYCiTTCkZddtJTjqRAT6A5HFNihRPhbFh24XYkFP-r8_KfZ4IVLEsxZWWT2fyBDWNy4Wmd9esu4o9ihxVqVW2PLnL_yeIstv5FOCbA1rc0l1-LCsmxNUWCQgtF_Um0v7rk55nt0VtGTDBnn5ILVOWI1bB8TNoVB0DjHPilvO1gCFvnaiQVoA4b2m08e30cSJiMRoaW9KawrMSfyqL6ZURKBDetSnwrCqQ_oe6I0gRQ3BXewMy5I2OI8BTQ9vSPg26cHzCf_EUhwu5yRIADmD_hYmpsM5ygX2JTLbcFcCl6v4Wqbb506DCXBF2C0NkA50mihCwe5UwntRMeXH6rQO6D6SkMlzBXcmYBWWMvDgaNNVh9QaJ8NACWUrQPwkb=w800-h600-no",
   "carPhoto2b": "https://lh3.googleusercontent.com/H8EtB-oY5QQJq3R8VU4VJSzEhJ9QnPPqdC7oZGjTcduM_8Tycb8KAKtqYHNAzPXHmUAzzsnFU5WtWpEuRyGnic3q0ufF5awPu6e8YyUc6UMU-qgLCZ0RFJgvfM1msCR1KcfE2FKpo8zBGkRgodf3Y4zkbXWQlNArRcglUSEsPYdc3OQSeb5i41T58J9eqxCJNc4aSoSSQ4Lb9cLbhBx_bmOuqVCvyW2ceZ7KnjxbzhyiuPQDYZivAsMJUfgx3NeksI4cdbYdEwkmH_wYS3Xolk7HzBaUnFqOQ4qkRG8q59FRCAS6tbBhMhMFRhg_pGys4tXAE7vtBSMYWAUrc18CR14Sg87ztENHwktYM6LCFTlboVwUErf4dt2_2nYx5tS_g80uNZniwYb67K_XwZhrfKT4F_KcHoltBmpYTxUME3kOb4c0KtjY61DhGNR7KDol-h6YhSyhMx4jwHHTbY0OoP_4irQZlyiQApBatpv1DzlPicxmcQDVqRP6KEBayIMSCdZzV8AKF1zNk4zN2wqrTIfSJaXaqoxlSrIp1NWlMiS_GEfP8PNkqdwT520wm_yayRujTn2H10VWvoXLKHH5l26Yt-3adMyp1xWjz7v8m9kJk3pWJJCtWI0t14RP1HqG8ai0t9FYmyMyTZS5xcA9RULLMFrcxn07peiyWNVL04Vsawo3qCEU3g1fRIpdg2P7i2Gzfm3Ndmgz6Dn9VB2dVYk06PCGgx-JHNLQHocZWLCIY41O=w800-h600-no",
   "carText": "&nbsp;&nbsp;&nbsp;Фірма Artz з Ганновера у 1983 році розробила дводверний універсал на базі Porsche 928. Технічно машина залишилась такою ж, як і оригінал. Але аеродинаміка покращилась і максимальна швидкість стала вищою (261 км/год).",
-  "currentLocationDE": 0
+  "currentLocationDE": 1
 },
 {
   "carID": 44,
