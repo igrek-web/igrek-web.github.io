@@ -3384,6 +3384,24 @@
   "currentLocationDE": 1
 },
 {
+  "carID": 205,
+  "collectionGerman": 1,
+  "collectionKombis": 0,
+  "carBrand":  "Volkswagen",
+  "carModel":  "Polo V 3 door",
+  "carProdBy":  "Bburago",
+  "carAppeared":  "2026-10-27",
+  "carPurchasedAt":  "Weiden, Mueller",
+  "carPrice":  "3,19 EUR",
+  "carPriceCurrentEur": 5,
+  "carPhoto1":  "./images/cars/205s_vw_polo53d.jpg",
+  "carPhoto2":  "./images/cars/205s_vw_polo53d_back.jpg",
+  "carPhoto1b":  "https://lh3.googleusercontent.com/pw/AP1GczP5ZT7hTtuoRL09pFyF4IQUhFCCo9VeK12wItin8NUP3NuCEojV8ScJlk0Edd2tuWkvz_shgpXk91jf6i6yYHmBlM6rG006minr9u3NecZAwBU0PoWX014PW8KfkDBLZAt0qBF4OOnoNy4DF31bIAJzcw=w800-h600-s-no-gm?authuser=0",
+  "carPhoto2b":  "https://lh3.googleusercontent.com/pw/AP1GczMibg8LCqfBCaPLtP6SmuMvFNxzb7coR91xNnF0I5D_fBvp55p0yY5HX3B6fArjaGT1dcXmY0jJm9V5Dwgj23kYoc6QM101s25E8G_X11WhLu7K15sOiB9Hfpt9DsNc5ebj7iq7ZUsy_hcra1dUuy9ouw=w800-h600-s-no-gm?authuser=0",
+  "carText":  "&nbsp;&nbsp;&nbsp;П'яте покоління VW Polo побачило світ у 2009 році, спочатку як 5-дверний хетчбек, потім також як 3-дверний. В деяких країнах був доступний також кузов седан. Автомобіль отримав титул європейського авто року у 2010-му. Автомобіль до фейсліфта у 2014 році мав позначення 6R, після нього 6C.<br>&nbsp;&nbsp;&nbsp;До 2017 року автомобіль вироблявся в Європі. Після того там його змінило шосте покоління. В інших країнах автомобіль продовжував сходити з конвеєра: до 2020 в Росії, до 2022 в Індії, і досі (опис написано у 2026 році) виробляється в Південній Африці та Кенії.<br>&nbsp;&nbsp;&nbsp;Polo GTI виробляли з 2010 року як 3- та 5-дверний хетчбек. Крім зовнішних відмінностей від стандартної версії, у нього була на 15 мм нижча спортивна підвіска, система підгальмовування внутрішнього переднього колеса в швидких поворотах та перенесена в багажник батарея для кращого розподілу ваги. Версія до фейсліфта (модель від Bburago) мала двигун 1,4 л потужністю 180 к.с. і розганялася до 229 км/год.",
+  "currentLocationDE": 1
+},
+{
   "carID": 171,
   "collectionGerman": 1,
   "collectionKombis": 1,
